@@ -11,15 +11,15 @@ function symbolism() {
   }
 }
 
-function music2() {
-  var music2 = document.getElementById("symbolism");
+function shegotmelike() {
+  var shegotmelike = document.getElementById("shegotmelike");
   var musicplayer2 = document.getElementById("musicplayer2");
 
-  if (music2.paused) {
-    music2.play();
-    musicplayer2.innerHTML = "Pause Music - music2";
+  if (shegotmelike.paused) {
+    shegotmelike.play();
+    musicplayer2.innerHTML = "Pause Music - SheGotMeLike";
   } else {
-    music2.pause();
-    musicplayer2.innerHTML = "Play Music - music2";
+    shegotmelike.pause();
+    musicplayer2.innerHTML = "Play Music - SheGotMeLike";
   }
 }
