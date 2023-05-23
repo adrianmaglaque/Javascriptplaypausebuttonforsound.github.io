@@ -15,7 +15,9 @@ CHANGE: ''YOURMUSIC.MP3'' to your MUSIC/AUDIO File .MP3
 
 NOTE:
 *Changing the id and name of the function depends on you but you also need to update all the js file if you change something so i hope it work for you*
+i make some comments to guide you so dont worry
 
-Thanks for reading i hope you did it well
+
+Thanks for reading i hope it work for you and use it! 
 =======
 >>>>>>> f7a9677f165144acfe560352fdf347c833d27c1d:PLEASEREADTHIS.txt
