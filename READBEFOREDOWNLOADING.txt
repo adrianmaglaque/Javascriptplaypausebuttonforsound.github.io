@@ -4,7 +4,7 @@ Put your audio file in <audio> tag to link what music/sound file you want to use
 this is the THINGS you have to CHANGE
 
 
-in HTMLCODE: (bottom section) you will the comment <!'CHANGE the AUDIO link here FOR IT to WORK music/sounds from button'>
+in HTMLCODE: (bottom section) you will see the comment <!'CHANGE the AUDIO link here FOR IT to WORK music/sounds from button'>
 
 CHANGE: ''YOURMUSIC.MP3'' to your MUSIC/AUDIO File .MP3
 
