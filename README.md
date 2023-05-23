@@ -19,6 +19,6 @@ Read - PLEASEREADTHIS.TXT File for more information
   
   
 >>>>>>> 4fa9637fa54fdee735845f0bc9cbbdae5a86aa2d
-heres the website: https://adrianmaglaque.github.io/Javascriptplaypausebuttonforsound/
+heres the website:
 
 ![preview](prev1.png)
