@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  user-select: none;
+  font-family: "Cascadia Code";
+  background-color: lightsalmon;
+}
+
+#musicplayer,
+#musicplayer2 {
+  padding: 1rem;
+  border: none;
+  background-color: purple;
+  border-radius: 10rem;
+  color: white;
+  font-weight: 700;
+}
+
+#musicplayer:hover,
+#musicplayer2:hover {
+  background-color: rgb(164, 2, 164);
+}
+
+.info {
+  margin: 20% 0;
+}
