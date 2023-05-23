@@ -1,0 +1,21 @@
+Put your audio file in <audio> tag to link what music/sound file you want to use and test it your self, the BUTTON will NEVER WORK if you dont LINK YOUR AUDIO FILE. * but i intentionally removed the music because i dont want to get copyrighted law :) *
+<<<<<<< HEAD:update.txt
+
+this is the THINGS you have to CHANGE
+
+
+in HTMLCODE: (bottom section) you will the comment <!'CHANGE the AUDIO link here FOR IT to WORK music/sounds from button'>
+
+CHANGE: ''YOURMUSIC.MP3'' to your MUSIC/AUDIO File .MP3
+
+
+<audio src="YOURMUSIC.MP3" id="sound1"></audio>
+<audio src="YOURMUSIC.MP3" id="sound2"></audio>
+
+
+NOTE:
+*Changing the id and name of the function depends on you but you also need to update all the js file if you change something so i hope it work for you*
+
+Thanks for reading i hope you did it well
+=======
+>>>>>>> f7a9677f165144acfe560352fdf347c833d27c1d:PLEASEREADTHIS.txt

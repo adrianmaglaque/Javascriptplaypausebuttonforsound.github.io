@@ -4,33 +4,30 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>PLAY/PAUSE BUTTON</title>
     <link rel="stylesheet" href="styles/index.css" />
   </head>
   <body>
     <div class="info">
       <h2>HELLO WORLD</h2>
-      <p>Hi im Jiren, Im from California and im a self taught dancer</p>
-      <p>this is my favorite music</p>
+      <p>Hi im Jiren, Im from California and im a self taught dancer.</p>
+      <br />
+      <p>I want to share that this is my favorite music:</p>
+      <br />
 
-      <p>Electro-Light - Symbolism[NCS Release]</p>
-      <button onclick="symbolism()" id="musicplayer">
-        Click to play Symbolism
-      </button>
+      <!-- COPY THESE BUTTON AND MAKE ANOTHER FUNCTION IF YOU WANT TO ADD ANOTHER BUTTON FUNCTIONS -->
 
-      <p>Halvorsen - She got me like [NCS Release]</p>
-      <button onclick="shegotmelike()" id="musicplayer2">
-        Click to play SheGotMeLike
-      </button>
+      <p>MUSIC/SOUND1 TITLE</p>
+      <button onclick="button1()" id="musicplayer">Click to play 1</button>
+
+      <p>MUSIC/SOUND1 TITLE</p>
+      <button onclick="button2()" id="musicplayer2">Click to play 2</button>
     </div>
-    <audio
-      src="Electro-Light - Symbolism [NCS Release].mp3"
-      id="symbolism"
-    ></audio>
-    <audio
-      src="Halvorsen - She Got Me Like [NCS Release].mp3"
-      id="shegotmelike"
-    ></audio>
+
+    <!-- change the audio link here to for it work music/sounds from button  -->
+
+    <audio src="YOURMUSIC.MP3" id="sound1"></audio>
+    <audio src="YOURMUSIC.MP3" id="sound2"></audio>
     <script src="index.js"></script>
   </body>
 </html>
